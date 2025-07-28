@@ -52,7 +52,7 @@ captured through a webcam. It uses MediaPipe for hand tracking and pycaw(AndreMi
 
 ```bash
 git clone https://github.com/yourusername/HandGestureVolumeControl.git
-cd P1_Volume_Hand_Gesture_Control
+cd VolumeHandGestureControl
 ```
 
 ### 2. Install Dependencies
